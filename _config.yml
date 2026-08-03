@@ -1,0 +1,9 @@
+title: Russell Vaccaro
+description: Technical Sales Rep focused on GTM in cybersecurity, data/ai, cloud, and developer infrastructure
+url: "https://russvaccaro.com"
+theme: minima
+
+header_pages:
+  - about.md
+  - reading.md
+  - writing.md
