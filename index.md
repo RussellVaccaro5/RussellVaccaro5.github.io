@@ -4,10 +4,15 @@ title: Russell Vaccaro
 permalink: /
 ---
 
-I'm a software sales professional focused on GTM in cybersecurity, cloud,
-data/ai, devops and infrastructure.
-
+Contact me:
 [LinkedIn](https://www.linkedin.com/in/russellvaccaro/) ·
 [Email](mailto:russ@vaccaro.io) ·
 
-## Selected writing
+## Areas of Interest
+- GTM in cybersecurity, data, devops and cloud infrastructure.
+- Startups and Venture Capital
+- Health, strength training, & performance
+- College basketball strategy & analytics (Go Gators)
+- Reading, writing, speaking, & storytelling
+- 
+
