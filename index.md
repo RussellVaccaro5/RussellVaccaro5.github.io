@@ -9,7 +9,7 @@ Contact me:
 [Email](mailto:russ@vaccaro.io) ·
 
 ## Areas of Interest
-- GTM in cybersecurity, data, devops and cloud infrastructure.
+- GTM in cybersecurity, data, observability, devops and cloud infrastructure.
 - Startups and Venture Capital
 - Health, strength training, & performance
 - College basketball strategy & analytics (Go Gators)
