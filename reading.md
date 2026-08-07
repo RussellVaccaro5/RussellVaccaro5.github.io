@@ -2,12 +2,8 @@
 layout: page
 title: Reading Log
 permalink: /reading/
-description: Books Russell Vaccaro is reading, along with short notes and ideas worth keeping.
+description: Books I'm reading and Why
 ---
-
-I read to build working models, not to collect finished titles. This page tracks what I'm reading and the ideas that survive after I close the book.
-
-The short version lives here. When a book produces a deeper set of notes, I'll link to a longer piece.
 
 ## Currently reading
 
@@ -45,22 +41,3 @@ COPY THIS BLOCK FOR EACH FINISHED BOOK, THEN DELETE THIS COMMENT WRAPPER.
 
 ---
 -->
-
-## What I tend to read
-
-- **Technology and markets:** AI, data, cloud infrastructure, developer tools, and cybersecurity
-- **Sales and GTM:** discovery, positioning, negotiation, account strategy, and startup growth
-- **Thinking and writing:** mental models, learning, knowledge management, and clear communication
-- **Health and performance:** training, recovery, attention, and behavior change
-- **History and biography:** how people make decisions under real constraints
-
-## How I take notes
-
-I keep the public entry deliberately short:
-
-1. The book's central claim in my own words
-2. The few ideas I expect to use or remember
-3. Where I agree, disagree, or still have questions
-4. A link to a longer note when the book earns one
-
-That keeps this page useful as a log while leaving room for more complete essays elsewhere on the site.
