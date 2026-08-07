@@ -12,7 +12,8 @@ Contact me:
 - GTM in cybersecurity, data, observability, devops and cloud infrastructure.
 - Startups and Venture Capital
 - Health, strength training, & performance
-- College basketball strategy & analytics (Go Gators)
+- College basketball strategy & analytics
 - Reading, writing, speaking, & storytelling
+- How to apply deliberate practice in Sales
 - 
 
