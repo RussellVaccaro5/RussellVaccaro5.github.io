@@ -5,8 +5,7 @@ permalink: /about/
 description: About Russell Vaccaro—software sales, technical GTM, and the ideas behind this site.
 ---
 
-I'm Russell Vaccaro. I work in technical go-to-market and am interested in how
-people explain, evaluate, and adopt complex technology.
+I'm Russell Vaccaro. I work in technical go-to-market and built this website to document what I'm learning about and publish short posts to clarify & develop my thoughts.  
 
 ## What I'm interested in
 
