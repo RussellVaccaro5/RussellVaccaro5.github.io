@@ -4,16 +4,28 @@ title: Russell Vaccaro
 permalink: /
 ---
 
-I work in technical go-to-market and use this site to collect what I am learning then organize and develop my opinions.
+I work in technical software sales, with a focus on turning complex products into
+clear customer outcomes. This is where I write about technical go-to-market,
+startups, and deliberate practice in sales.
 
 [LinkedIn](https://www.linkedin.com/in/russellvaccaro/) ·
-[Email](mailto:russ@vaccaro.io)
+[Email](mailto:russ@vaccaro.io) ·
+[Explore the Lab](https://lab.russvaccaro.com/)
 
-## Current Areas of Interest
-- GTM in cybersecurity, data, observability, devops and cloud infrastructure.
-- Startups and venture capital
-- Health, strength training, and performance
-- College basketball strategy and analytics
-- Reading, writing, speaking, and storytelling
-- How deliberate practice can apply in Sales
-- Building with AI for non-technical users
+## What I focus on
+
+- Technical GTM in cybersecurity, data, observability, DevOps, and cloud infrastructure
+- Sales tools that make discovery, qualification, and account planning more rigorous
+- Deliberate practice for technical sellers
+- Building useful software with AI
+
+## Selected projects
+
+I use the [Lab](https://lab.russvaccaro.com/) to build focused browser tools for
+sales practice, account strategy, learning, and personal knowledge management.
+
+- [Interview Drill](https://lab.russvaccaro.com/interview-drill/) — structured practice for sharper interview answers
+- [MEDDPPICC Scorecard](https://lab.russvaccaro.com/meddppicc-scorecard/) — a practical way to inspect qualification gaps
+- [Account POV Builder](https://lab.russvaccaro.com/account-pov-builder/) — a guided workflow for developing an account point of view
+
+[See all projects]({{ "/projects/" | relative_url }})

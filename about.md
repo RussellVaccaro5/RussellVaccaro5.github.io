@@ -5,16 +5,24 @@ permalink: /about/
 description: About Russell Vaccaro—software sales, technical GTM, and the ideas behind this site.
 ---
 
-I'm Russell Vaccaro. I work in technical go-to-market and built this website to document what I'm learning about and publish short posts to clarify & develop my thoughts.  
+I'm Russell Vaccaro. I work in technical software sales, where the job is to
+connect complex technology to a customer's priorities, constraints, and desired
+outcomes.
 
-## What I'm interested in
+## How I think about technical GTM
 
-My interests include cybersecurity, data, observability, DevOps, cloud
-infrastructure, startups, performance, and deliberate practice in sales.
+Strong technical go-to-market work requires more than product knowledge. It
+requires disciplined discovery, clear communication, sound qualification, and a
+point of view grounded in how a customer operates.
+
+My areas of focus include cybersecurity, data, observability, DevOps, cloud
+infrastructure, startups, and deliberate practice in sales.
 
 ## Why this site exists
 
-This is a home for concise notes on what I am reading, writing, and learning.
+This site is a home for concise writing about technical GTM. The
+[Lab](https://lab.russvaccaro.com/) is where I turn those ideas into small,
+practical tools.
 
 ## Get in touch
 

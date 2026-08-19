@@ -16,7 +16,7 @@ plugins:
 
 header_pages:
   - about.md
-  - reading.md
+  - projects.md
   - writing.md
 
 exclude:
