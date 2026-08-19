@@ -9,6 +9,5 @@ permalink: /writing/
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%B %-d, %Y" }}
 {% endfor %}
 {% else %}
-Writing will appear here soon. In the meantime, see what I am
-[reading]({{ "/reading/" | relative_url }}).
+There are no published articles in the collection.
 {% endif %}
