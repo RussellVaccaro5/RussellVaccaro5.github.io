@@ -1,9 +1,25 @@
-title: Home
-description: Tech Sales and more
+title: Russell Vaccaro
+description: Notes on technical go-to-market, startups, performance, and deliberate practice.
 url: "https://russvaccaro.com"
 theme: minima
+lang: en-US
+timezone: Etc/UTC
+permalink: /writing/:title/
+
+author:
+  name: Russell Vaccaro
+  email: russ@vaccaro.io
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - about.md
   - reading.md
   - writing.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
