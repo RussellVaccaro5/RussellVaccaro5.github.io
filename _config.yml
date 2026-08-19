@@ -6,9 +6,9 @@ lang: en-US
 timezone: Etc/UTC
 permalink: /writing/:title/
 
-author:
-  name: Russell Vaccaro
-  email: russ@vaccaro.io
+# Minima expects these as top-level strings and renders them in the footer.
+author: Russell Vaccaro
+email: russ@vaccaro.io
 
 plugins:
   - jekyll-feed
