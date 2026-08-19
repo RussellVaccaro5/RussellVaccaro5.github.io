@@ -4,8 +4,7 @@ title: Russell Vaccaro
 permalink: /
 ---
 
-I work in technical go-to-market and use this site to collect what I am learning
-about sales, technology, performance, and deliberate practice.
+I work in technical go-to-market and use this site to collect what I am learning then organize and develop my opinions.
 
 [LinkedIn](https://www.linkedin.com/in/russellvaccaro/) ·
 [Email](mailto:russ@vaccaro.io)
@@ -17,4 +16,4 @@ about sales, technology, performance, and deliberate practice.
 - College basketball strategy and analytics
 - Reading, writing, speaking, and storytelling
 - How deliberate practice can apply in Sales
-- Building with AI for "non-technical users"
+- Building with AI for non-technical users
